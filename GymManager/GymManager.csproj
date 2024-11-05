@@ -79,5 +79,24 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="View\Resources\18033154-fitness-center-or-gym-emblem.jpg" />
+    <Content Include="View\Resources\banner1.png" />
+    <Content Include="View\Resources\FC-logo.jpg" />
+    <Content Include="View\Resources\FC-logo1.jpg" />
+    <Content Include="View\Resources\Gym-logo.png" />
+    <Content Include="View\Resources\Gym.jpg" />
+    <Content Include="View\Resources\Gym2.jpg" />
+    <Content Include="View\Resources\Gym3.jpg" />
+    <Content Include="View\Resources\gym_logo_VTP.ico" />
+    <Content Include="View\Resources\gym_logo_VTP.png" />
+    <Content Include="View\Resources\logo dai hoc tai nguyen va moi truong hcmunre.png" />
+    <Content Include="View\Resources\Logo.jpg" />
+    <Content Include="View\Resources\search-icon-md.png" />
+    <Content Include="View\Resources\search-icon.png" />
+    <Content Include="View\Resources\search-icon1.png" />
+    <Content Include="View\Resources\search-icon2.png" />
+    <Content Include="View\Resources\search-icon3.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
